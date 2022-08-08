@@ -1,0 +1,18 @@
+_____ CHANGE LOG _____ 
+changes to Full_test.py  [07.05.2022]:
+
+1. forenklet worker_base() markert "<-- OLD"
+	tillegg:
+		- fjernet print(" ... responsible for: channels[{50*i}:{50*(i+1) }]")
+		- byttet ur "i" med "name" i "worker_base(jobs = [], slugs = [], *args, name)"
+
+2. byttet ut get_api_values()
+	- markert med "# NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW"
+
+3. endret gen_workers():
+	- markert med "<-- OLD"
+	  byttet ut "k for k in range(1, (len(cred)+1))"  med  "k for k in cred"
+
+4.
+
+

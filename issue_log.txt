@@ -1,0 +1,14 @@
+_____ ISSUE / BUGS LOG _____ 
+Issues with Full_test.py  [07.05.2022]:
+
+1. cmd crash 
+	 Error: The key is not registered in the system, for account: crypto1, when handling link: https://t.me/cryptotaskofficial
+
+2. NOTE: Mulig det vil ende opp med ERROR iht "name" (api account) og "name" (channel name)
+
+3. NOTE: Fungerer ikke med brukere, skal gjøre flere tester med 1 konto (min egen)
+	test1: ant kanaler (40) --> suksessfull
+
+4. Problemer med Postgres, den vil ikke uploade. skal gjøre flere tester. 
+
+
